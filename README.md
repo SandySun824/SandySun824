@@ -11,4 +11,4 @@ MSc Marketing student at City University of Hong Kong, passionate about data-dri
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandySun824&show_icons=true&theme=radical)
+![Sandy's GitHub stats](https://ghstats.dev/api/card?username=SandySun824&theme=radical)
